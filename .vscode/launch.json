@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Documents\\Practice_Project"
+		}
+	],
+	"settings": {
+        "python.linting.pylintEnabled":true,
+        "python.linting.enabled":true,
+
+
+		"python.pythonPath": "D:\\Jupyter\\envs\\stock\\python.exe"
+
+
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Python: Current File",
+				"type": "python",
+				"request": "launch",
+				"program": "${file}",
+				"console": "integratedTerminal"
+			}
+		]
+	}
+}
